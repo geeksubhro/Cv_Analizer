@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+pymupdf>=1.22.3
+numpy>=1.24.0
+loguru>=0.7.2
+tqdm>=4.66.0
+psutil>=5.9.5
